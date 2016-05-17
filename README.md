@@ -3,7 +3,7 @@ Repo to store Azure Session to experiment Azure Resource Manager (ARM), Chef and
 
 Agenda:
 
-- Configuration Management Solutions (Puppet and Chef)
+- Configuration Management Solutions Overview (Puppet and Chef)
 - Machine provisioning demonstration with ARM templates and configuration management solutions 
 
 
