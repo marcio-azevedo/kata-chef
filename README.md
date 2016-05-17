@@ -7,3 +7,11 @@ Agenda:
 - Machine provisioning demonstration with ARM templates and configuration management solutions 
 
 
+Resources:
+
+- [Azure Resource Visualizer](http://armviz.io/)
+- [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates/)
+
+
+References:
+
