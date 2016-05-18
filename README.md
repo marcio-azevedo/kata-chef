@@ -1,5 +1,5 @@
 # kata-chef-puppet
-Repo to store Azure Session to experiment Azure Resource Manager (ARM), Chef and Puppet.
+Repo to store Azure Session to experiment Azure Resource Manager (ARM) and Chef.
 
 Agenda:
 
